@@ -1,0 +1,5 @@
+{
+    "bsc_RPC": "https://speedy-nodes-nyc.moralis.io/6ddaccb5dc486ffea9fce914/bsc/testnet",
+    "nearBridgeId": "deip_bridge.testnet",
+    "nearTokenId": "deipn.testnet"
+}

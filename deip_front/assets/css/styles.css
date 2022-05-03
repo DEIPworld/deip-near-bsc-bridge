@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'Gramatika';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url('~/assets/fonts/Gramatika-Regular.ttf')  format('truetype');
+  }
+  @font-face {
+    font-family: 'Gramatika';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url('~/assets/fonts/Gramatika-Bold.ttf')  format('truetype');
+  }
+
+h1{
+    font-size: 90px;
+    font-weight: 700;
+}
+
+h2{
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 32px;
+    font-weight: 400;
+}
+
+label{
+    font-size: 16px;
+    line-height: 21px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #00000080;
+
+}
