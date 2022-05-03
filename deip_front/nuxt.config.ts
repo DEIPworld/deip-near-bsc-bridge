@@ -1,4 +1,4 @@
-import { defineNuxtConfig } from "nuxt3";
+import { defineNuxtConfig } from "nuxt";
 import inject from "@rollup/plugin-inject";
 
 export default defineNuxtConfig({
